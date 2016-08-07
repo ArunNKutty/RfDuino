@@ -1,0 +1,77 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:3:5-26
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:8:9-35
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+		INJECTED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.BLUETOOTH
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:11:4-67
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:11:21-64
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:12:4-73
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:12:21-70
+application
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:15:5-43:19
+	android:label
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:18:9-41
+	android:allowBackup
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:16:9-35
+	android:icon
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:17:9-45
+	android:theme
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.rfduino.examples.ListAllExamples
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:21:13-64
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.rfduino.examples.LedButtonExample
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:29:9-32:20
+	android:label
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:31:13-69
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:30:13-65
+activity#com.rfduino.examples.ColorWheelExample
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:33:9-36:20
+	android:label
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:35:13-71
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:34:13-66
+service#com.rfduino.core.SimpleBlePeripheralService
+ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:38:10-39:19
+	android:name
+		ADDED from /Learning/RFDuino-AndroidExamples/app/src/main/AndroidManifest.xml:38:19-66
